@@ -7,8 +7,8 @@ The Steam Controller is an ideal device for automating Stratagem codes that can 
 - RIGHT BUMPER: Reload. HOLD for map
 - ESCAPE: REC-6 Demolisher Stratagem
 - X BUTTON: Close Air Support Stratagem
-- BACK LEFT: Dive prone / Get up / Jump. HOLD for Turbo "recover"
-- BACK RIGHT: Left Bumper (hold for other Stratagems)
+- BACK LEFT: Dive prone / Get up / Jump. HOLD for turbo "recover" i.e. mashing A button
+- BACK RIGHT: Left Bumper (hold to call other Stratagems)
 - MENU: Start button
   
 Installation: 

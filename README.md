@@ -1,5 +1,5 @@
 # steamcontroller
-Steam Controller Template for HELLDIVERS
+**Steam Controller Template for HELLDIVERS**
 
 The Steam Controller is an ideal device for automating Stratagem codes (macro) that can be assigned to a single button. Here's an example of a customisation that's come about through dozens of hours of trial and error. The following has been remapped for a frequently used load-out:
 
@@ -11,14 +11,14 @@ The Steam Controller is an ideal device for automating Stratagem codes (macro) t
 - BACK RIGHT: Left Bumper (hold to call other Stratagems)
 - MENU: Start button
   
-Installation: 
+**Installation:**
 1. Copy VDF file into folder: \Program Files (x86)\Steam\controller_base\templates
 1. From Steam client: Right-Click HELLDIVERS > Manage > Controller Configuration
 1. Browse Configs > Templates > Lazy HELLDIVER Binding
 
 Edit the VDF file to further customise buttons for additional Stratagem automation. Make use of **HOLD** and **DOUBLE TAP** settings to assign even more.
 
-Tips for Mapping Stratagems:
+**Tips for Mapping Stratagems:**
 - Set the delay_end for SHOULDER_LEFT to max of 1000 (hold down for 1 second) then sequence the codes in 100 incrementals
 - Set the first d-pad button with a delay_start of 100 then add 100 for subsequent buttons
 - Adjust the delay_end to cover the entire sequence e.g. 500 for a 4-code Stratagem, 600 for a 5-code etc
